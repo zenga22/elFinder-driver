@@ -1,8 +1,8 @@
 # Drivers for elFinder
 
-**no longer under development**
+**no longer under development?**
 
-This is a collection of drivers for [elFinder](https://github.com/Studio-42/elFinder) written by me.
+This is a collection of drivers for [elFinder](https://github.com/Studio-42/elFinder) written by Manatsawin Hanmongkolchai ([whs](https://github.com/whs)) and archived by him on Feb 8, 2015.
 
 All drivers are licensed under Apache License 2.0.
 
